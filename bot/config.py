@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**[Hi there](https://youtu.be/sTQkY0UE20c) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Hey! Welcome to The Cloner! It's a one in all bot for cloning and downloading, generally just managing huge files in your GDrive, in a jiffy! Contact me at t.me/BraedynWalkr if you have any questions! Ciao!"
 
     HELP_MSG = [
         ".",
