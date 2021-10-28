@@ -5,7 +5,7 @@ class config:
     DATABASE_URL = "postgres://lpbezyujkkseqa:4a178799a33447a76aeda6982d9a2d748d594f36749f234efbf75b19b98f2d3d@ec2-44-197-94-126.compute-1.amazonaws.com:5432/dd6hkgm37f9t06"
     SUDO_USERS = "1821790443" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "http://605059831305-nja4aasrtrnroid6euac32jejevh96go.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_ID = "605059831305-nja4aasrtrnroid6euac32jejevh96go.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
     SUPPORT_CHAT_LINK = "https://t.me/BraedynWalkr"
 
